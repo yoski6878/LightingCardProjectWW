@@ -121,15 +121,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPage.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPage.css",
             "isDirectory": false,
-            "size": 235,
-            "modifiedTime": 1551289706660,
-            "changeTime": 1551289706660,
-            "contentHash": "6575a2f7cba7085baaddd0b1d90c0c3ab9462c17",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 235,
+            "modifiedTime": 1551306018717,
+            "changeTime": 1551306018717,
+            "isWorkspace": false,
+            "contentHash": "6575a2f7cba7085baaddd0b1d90c0c3ab9462c17"
         }
     ],
     [
@@ -373,15 +373,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.cmp",
             "isDirectory": false,
+            "size": 3367,
+            "modifiedTime": 1551305700287,
+            "changeTime": 1551305700287,
+            "contentHash": "523886a3ef9076af5c55c95f36cf2427eac098d9",
             "isMetadataFile": false,
-            "size": 3227,
-            "modifiedTime": 1551303470693,
-            "changeTime": 1551303470693,
-            "isWorkspace": false,
-            "contentHash": "1a3152b303d62b47955a2b75c68e7f249ce5c249"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -404,14 +404,13 @@
         {
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1551286960382,
-            "changeTime": 1551286960382,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "size": 235,
+            "modifiedTime": 1551305953975,
+            "changeTime": 1551305953975,
+            "contentHash": "6575a2f7cba7085baaddd0b1d90c0c3ab9462c17",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
