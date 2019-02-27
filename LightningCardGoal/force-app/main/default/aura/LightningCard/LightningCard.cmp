@@ -3,7 +3,9 @@
 
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
     <aura:attribute name="RecordObject" type="Account" />
-    <lightning:card title="Goals Description">
+    <div class="slds-p-around_small">
+ 
+    <lightning:card title="Goals Description"> <!--The title should be the subject of the goal-->
         <div class="slds-grid slds-gutters removemargin">
 
             <div class="slds-col slds-size_1-of-12 centeralign ">
@@ -25,28 +27,29 @@
             <div class="slds-col slds-size_2-of-12" style="text-align: right;">
                 <div class="slds-grid slds-grid_vertical">
                     <div class="slds-col" style="margin-bottom: 20px;">
-                        <span>Status:</span>
+                        <span>Status:&nbsp; {!v.RecordObject.Status__c}</span>
 
                     </div>
                     <div class="slds-col">
-                        <span>Due Date:</span>
+                            
+                        <span>Due Date: &nbsp;{!v.RecordObject.Due_Date__c } </span>
                     </div>
-
+                </div>
                 </div>
             </div>
-            <div class="slds-col slds-size_2-of-12">
+   
+        <!--    <div class="slds-col slds-size_2-of-12">
                 <div class="slds-grid slds-grid_vertical">
                     <div class="slds-col" style="margin-bottom: 10px;">
                         <ui:inputSelect class="dynamic" aura:id="InputSelectDynamic" change="{!c.onChange}" />
                     </div>
                     <div class="slds-col">
                         <span>{!v.RecordObject.Due_Date__c }</span>
-                    </div>
+                    </div> 
 
                 </div>
-            </div>
-        </div>
-
+            </div> -->
+        
         <footer class="slds-card__footer textalign" style="border-top-color: beige;">
             <div class="slds-grid slds-wrap">
                 <div class="slds-col slds-size_6-of-12 margin-top-bottom">
@@ -62,7 +65,9 @@
                     <b> Phone:</b> <span>{!v.RecordObject.Phone}</span>
                 </div>
             </div>
+
         </footer>
 
     </lightning:card>
+    </div>
 </aura:component>

@@ -92,15 +92,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPage.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPage.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 555,
             "modifiedTime": 1551287912724,
             "changeTime": 1551287912724,
-            "isWorkspace": false,
-            "contentHash": "4dd13107a75541a6bead47a2fa59b788c88cade7"
+            "contentHash": "4dd13107a75541a6bead47a2fa59b788c88cade7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -123,14 +123,13 @@
         {
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPage.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1551286164429,
-            "changeTime": 1551286164429,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "size": 235,
+            "modifiedTime": 1551289706660,
+            "changeTime": 1551289706660,
+            "contentHash": "6575a2f7cba7085baaddd0b1d90c0c3ab9462c17",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -166,15 +165,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPageController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPageController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 484,
             "modifiedTime": 1551289353831,
             "changeTime": 1551289353831,
-            "isWorkspace": false,
-            "contentHash": "4925b160e0f240d82381cbfced2d312caf8f62dd"
+            "contentHash": "4925b160e0f240d82381cbfced2d312caf8f62dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -225,15 +224,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.app",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningApp\\LightningApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 84,
             "modifiedTime": 1551289607952,
             "changeTime": 1551289607952,
-            "isWorkspace": false,
-            "contentHash": "698c1dfb8f5401929dacba8ecd5c21c4b2442423"
+            "contentHash": "698c1dfb8f5401929dacba8ecd5c21c4b2442423",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -374,16 +373,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.cmp",
             "isDirectory": false,
-            "size": 3014,
-            "modifiedTime": 1551287492163,
-            "changeTime": 1551287492163,
-            "contentHash": "3d014067a43f982f8fd3ffa5bf0ca5fb988f08d9",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 3227,
+            "modifiedTime": 1551303470693,
+            "changeTime": 1551303470693,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "1a3152b303d62b47955a2b75c68e7f249ce5c249"
         }
     ],
     [
@@ -451,14 +449,13 @@
         {
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCardController.js",
             "isDirectory": false,
-            "size": 422,
-            "modifiedTime": 1551287033671,
-            "changeTime": 1551287033671,
-            "contentHash": "ec07599ade60178e1dc6f89596cde28523cee649",
+            "size": 427,
+            "modifiedTime": 1551299575884,
+            "changeTime": 1551299575884,
+            "contentHash": "0b94674dacf1e4d43861cdd22c0181616a0d42f8",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -509,15 +506,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\Classes\\QueryGoalInfo.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\Classes\\QueryGoalInfo.cls",
             "isDirectory": false,
+            "size": 504,
+            "modifiedTime": 1551300200893,
+            "changeTime": 1551300200893,
+            "contentHash": "4948b2973288a0ff43e25ebb2c9f46cd841e0ace",
             "isMetadataFile": false,
-            "size": 545,
-            "modifiedTime": 1551289479327,
-            "changeTime": 1551289479327,
-            "isWorkspace": false,
-            "contentHash": "46f087b61cfc4ee09d6eee1047b21559b8256c36"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
