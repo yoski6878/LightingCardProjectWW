@@ -124,7 +124,7 @@
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\GoalDetailPage\\GoalDetailPage.css",
             "isDirectory": false,
             "size": 235,
-            "modifiedTime": 1551306018717,
+            "modifiedTime": 1551306137252,
             "changeTime": 1551306018717,
             "contentHash": "6575a2f7cba7085baaddd0b1d90c0c3ab9462c17",
             "isMetadataFile": false,
@@ -373,15 +373,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.cmp",
             "isDirectory": false,
-            "size": 3367,
-            "modifiedTime": 1551305700287,
-            "changeTime": 1551305700287,
-            "contentHash": "523886a3ef9076af5c55c95f36cf2427eac098d9",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 3274,
+            "modifiedTime": 1551365430367,
+            "changeTime": 1551365430367,
+            "isWorkspace": false,
+            "contentHash": "33de83472b130b8973969758145c5ba07eeef7d1"
         }
     ],
     [
@@ -402,15 +402,15 @@
     [
         "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\aura\\LightningCard\\LightningCard.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1551306042031,
             "changeTime": 1551306042031,
-            "isWorkspace": false,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -507,10 +507,10 @@
         {
             "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProjectWW\\LightningCardGoal\\force-app\\main\\default\\Classes\\QueryGoalInfo.cls",
             "isDirectory": false,
-            "size": 504,
-            "modifiedTime": 1551300200893,
-            "changeTime": 1551300200893,
-            "contentHash": "4948b2973288a0ff43e25ebb2c9f46cd841e0ace",
+            "size": 1247,
+            "modifiedTime": 1551361684730,
+            "changeTime": 1551361684730,
+            "contentHash": "927f0a797b44f701f7947a340e3a5cc013fe7f32",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
